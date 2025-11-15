@@ -1,5 +1,5 @@
-"""
-# 🎓 AI Tutor — Interactive Learning Assistant
+
+#  AI Tutor — Interactive Learning Assistant
 
 An **AI-powered tutor** built with **Google Gemini** and **Google ADK (AI Developer Kit)**.
 It explains topics, generates quizzes, and provides personalized feedback — all in one interactive session.
