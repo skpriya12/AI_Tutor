@@ -502,7 +502,7 @@ async def chat_fn(message, history, state: Optional[TutorState]):
 # ===============================
 
 with gr.Blocks() as demo:
-    gr.Markdown("# 🎓 AI Tutor with Memory (Gradio 3.x)")
+    gr.Markdown("#  AI Tutor with Memory")
 
     chatbot = gr.Chatbot(label="AI Tutor")  # expects list[list[user, assistant]]
     state = gr.State(TutorState())
